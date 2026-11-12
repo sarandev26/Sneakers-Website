@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 48" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@800&amp;display=swap');
+    .txt { font-family: 'Unbounded', sans-serif; font-size: 26px; font-weight: 800; fill: #EDEEE9; letter-spacing: -0.03em; }
+    .mark { fill: #C8F52E; }
+  </style>
+  <text x="0" y="34" class="txt">AERO-SLATE</text>
+  <!-- Slanted // mark -->
+  <polygon points="265,34 273,12 278,12 270,34" class="mark" />
+  <polygon points="278,34 286,12 291,12 283,34" class="mark" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Slanted // mark in volt on obsidian -->
+  <rect width="48" height="48" rx="2" fill="#08090A" />
+  <polygon points="12,36 21,12 27,12 18,36" fill="#C8F52E" />
+  <polygon points="25,36 34,12 40,12 31,36" fill="#C8F52E" />
+</svg>
