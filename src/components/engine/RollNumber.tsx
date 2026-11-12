@@ -33,7 +33,7 @@ export function RollNumber({ value, className = '', isStatic = false }: RollNumb
         return (
           <span
             key={`col-${idx}`}
-            className="inline-block h-[1.15em] overflow-hidden leading-[1.15em] relative w-[0.62em] text-center"
+            className="inline-block h-[1.16em] overflow-hidden leading-[1.15em] relative w-[0.62em] text-center"
           >
             <motion.span
               className="flex flex-col absolute top-0 left-0 w-full"
